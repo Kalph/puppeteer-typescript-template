@@ -1,3 +1,12 @@
+<br>
+
+[puppeteer](https://github.com/puppeteer/puppeteer) 
+<br>
+[puppeteer-template](https://github.com/chillypepper/puppeteer-typescript-template)
+<br>
+ts 파일 실행 - 파일 폴더 위치로 이동 후 node .\ts파일이름.
+
+
 # About this repo
 
 I recently came across a perfect opportunity for automated browser testing at work and thought it would be fun to finally try headless Chrome. Thankfully there exists a module called Puppeteer: https://github.com/GoogleChrome/puppeteer which is exactly what I wanted - a super simple node library for Chrome testing. I set up a quick project with Puppeteer and TypeScript to test it, and thought I'd publish it to help anyone else who might hit the same troubles I did making a basic template.
